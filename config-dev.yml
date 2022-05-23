@@ -1,1 +1,3 @@
 #连接数据库版本1
+config:
+  info: version01
